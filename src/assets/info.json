@@ -1,5 +1,5 @@
 {
-  "name":"cBioDay 2019",
+  "name":"OCCAMS cBioDay 2019",
   "location": {
     "city":"Cambridge, UK",
     "address": "Cancer Research UK Cambridge Institute",
@@ -8,79 +8,90 @@
   },
   "banner": "https://www.brightedge.com/sites/default/files/sharebanner-events.png",
   "date": "April 8, 2019",
-  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras in metus ac turpis cursus suscipit at a nisi. Praesent eu vehicula ante. Nullam viverra diam erat, at venenatis leo rutrum non. Integer vulputate aliquam augue, et hendrerit erat pellentesque in. Suspendisse tempor urna lorem, quis ornare tellus tristique et.",
+  "description": "OCCAMS Computational Biology Day",
   "speakers": [
     {
-      "name": "Dawn Schneider",
-      "bio": "Nisi eiusmod Lorem tempor nulla cillum ullamco. Tempor cupidatat ad duis incididunt ut nulla ea laborum labore occaecat laborum. Proident nostrud ea mollit esse veniam culpa do minim eiusmod. Deserunt pariatur proident excepteur dolor.\r\n",
-      "twitter": "esse",
-      "github": "occaecat",
-      "subtitle": "Mobile Developer at Buzzopia",
-      "avatar": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/78779/profile/profile-512.jpg?6"
+      "name": "Rebecca Fitzgerald",
+      "avatar": "https://i.ytimg.com/vi/j4IJ-zRv5-0/maxresdefault.jpg"
+    },
+    {
+      "name": "Ginny Devonshire",
+      "subtitle": "Bioinformatician at Cancer Research UK",
+      "avatar": "https://www.cruk.cam.ac.uk/wp-content/uploads/2018/11/Ginny-Devonshire.jpg"
+    },
+    {
+      "name": "Jennifer Furman",
+      "subtitle": "Research Governance and Integrity Coordinator at Cancer Research UK"
+    },
+    {
+      "name": "Sriganesh Jammula",
+      "subtitle": "Bioinformatician at Cancer Research UK",
+      "avatar": "https://www.cruk.cam.ac.uk/wp-content/uploads/2018/11/Sriganesh-Jammula.jpg"
+    },
+    {
+      "name": "Sarah Killcoyne",
+      "subtitle": "Post-Doctoral Researcher at Cancer Research UK"
+    },
+    {
+      "name": "Calvin Cheah",
+      "bio": "Calvin trained as an engineer at Queens' College, Cambridge, going on to work in various technology start-ups, most recently, Congenica Ltd, where he served as Senior Web Developer and UX Consultant, developing diagnostic tools currently deployed by Genomics England, New York Genome Centre and BGI.",
+      "twitter": "congenical",
+      "github": "c4cam",
+      "subtitle": "Laboratory Informatics Developer at MRC Cancer Unit",
+      "avatar": "https://pbs.twimg.com/profile_images/943594626413486082/3jYOhXDQ_400x400.jpg"
     }
   ],
   "events": [
     {
+      "title": "9:30 am",
+      "data": [
+        { "name" : "Registration", "time": "9:30 am - 10:00 am", "place": "Main hallway", "color":"#33E4F0"}
+      ]
+    },
+    {
       "title": "10:00 am",
       "data": [
-        { "name" : "Breakfast", "time": "9:30 am - 10:00 am", "place": "Main hallway", "color":"#33E4F0"},
-        { "name" : "Overview", "time": "10:00 am - 10:05 am", "place": "Auditorium", "color":"#33E4F0"}
-      ]
-    },
-    {
-      "title": "10:05 am",
-      "data": [
-        { "name" : "Description of current Omics pipelines/processes", "time": "10:00 am - 10:15 am", "place": "Room 2203", "color":"#3392F0",
-          "speaker":"Ginny and Ganesh",
-          "description": "Pre- and post-processing. RNA and methylation."}
-      ]
-    },
-    {
-      "title": "10:20 am",
-      "data": [
-        { "name" : "Clinical data (LabKey)", "time": "10:20 am - 10:30 am", "place": "Room 2203", "color":"#C12071",
-          "speaker":"Sarah",
-          "description": "Description of data (CRFs). How to access the data."}
-      ]
-    },
-    {
-      "title": "10:30 am",
-      "data": [
-        { "name" : "Governance, policy", "time": "11:00 am - 11:15 am", "place": "Auditorium", "color":"#C12071",
-          "speaker":"Jennifer",
-          "description": "Vivamus lobortis dapibus quam vitae sagittis. In in commodo nisi. In aliquam ante vel mi bibendum, maximus molestie ex pellentesque. Proin maximus efficitur efficitur. Aliquam a dolor ultricies, dapibus metus vitae, rutrum ex. Curabitur bibendum tempor ullamcorper"},
-        { "name" : "Data transfer", "time": "11:15 am - 11:30 am", "place": "Auditorium", "color":"#808080",
-          "speaker":"Ginny",
-          "description": "Vivamus lobortis dapibus quam vitae sagittis. In in commodo nisi. In aliquam ante vel mi bibendum, maximus molestie ex pellentesque. Proin maximus efficitur efficitur. Aliquam a dolor ultricies, dapibus metus vitae, rutrum ex. Curabitur bibendum tempor ullamcorper"},
-        { "name" : "cBioPortal", "time": "11:30 am - 12:00 pm", "place": "Auditorium", "color":"#DEC311",
-          "speaker":"Calvin",
-          "description": "Vivamus lobortis dapibus quam vitae sagittis. In in commodo nisi. In aliquam ante vel mi bibendum, maximus molestie ex pellentesque. Proin maximus efficitur efficitur. Aliquam a dolor ultricies, dapibus metus vitae, rutrum ex. Curabitur bibendum tempor ullamcorper"}
-      ]
-    },
-    {
-      "title": "10:50 am",
-      "data": [
+        { "name" : "Overview", "time": "10:00 am - 10:05 am", "place": "Auditorium", "color":"#33E4F0"},
+        { "name" : "Description of current Omics pipelines/processes", "time": "10:00 am - 10:15 am", "place": "Auditorium", "color":"#3392F0",
+          "speaker":"Ginny Devonshire and Sriganesh Jammula",
+          "description": "Pre and post-processing.\r\nRNA and methylation."},
+        { "name" : "Clinical data (LabKey)", "time": "10:20 am - 10:30 am", "place": "Auditorium", "color":"#C12071",
+          "speaker":"Sarah Killcoyne",
+          "description": "Description of data (CRFs).\r\nHow to access the data."},
+        { "name" : "Governance, policy", "time": "10:30 am - 10:50 am", "place": "Auditorium", "color":"#C12071",
+          "speaker":"Jennifer Furman"
+        },
+        { "name" : "Data transfer", "time": "10:30 am - 10:50 am", "place": "Auditorium", "color":"#808080",
+          "speaker":"Ginny Devonshire"
+        },
+        { "name" : "cBioPortal", "time": "10:30 am - 10:50 am", "place": "Auditorium", "color":"#DEC311",
+          "speaker":"Calvin Cheah"
+        },
         { "name" : "Break", "time": "10:50 am - 11:00 am", "place": "Auditorium", "color":"#33E4F0"}
       ]
     },
     {
       "title": "11:00 am",
       "data": [
-        { "name" : "Consortium talks", "time": "11:00 am - 12:00 pm", "place": "Auditorium", "color":"#3392F0",
-          "speaker":"John Doe",
-          "description": "Vivamus lobortis dapibus quam vitae sagittis. In in commodo nisi. In aliquam ante vel mi bibendum, maximus molestie ex pellentesque. Proin maximus efficitur efficitur. Aliquam a dolor ultricies, dapibus metus vitae, rutrum ex. Curabitur bibendum tempor ullamcorper"}
+        { "name" : "Consortium talks", "time": "11:00 am - 12:00 pm", "place": "Auditorium", "color":"#3392F0"}
       ]
     },
     {
       "title": "12:00 pm",
       "data": [
-        { "name" : "Lunch", "time": "12:00 pm - 1:00 pm", "place": "Hallway", "color":"#33E4F0"}
+        { "name" : "Lunch", "time": "12:00 pm - 1:00 pm", "place": "Hallway", "color":"#33E4F0" }
       ]
     },
     {
       "title": "1:00 pm",
       "data": [
-        { "name" : "OElixir WP2", "time": "1:00 pm - 2:00 pm", "place": "Auditorium", "color":"#33E4F0"}
+        { "name" : "OElixir WP2", "time": "1:00 pm - 2:00 pm", "place": "Auditorium", "color":"#33E4F0", "speaker":"Rebecca Fitzgerald" }
+      ]
+    },
+    {
+      "title": "2:00 pm",
+      "data": [
+        { "name" : "End" }
       ]
     }
   ]
