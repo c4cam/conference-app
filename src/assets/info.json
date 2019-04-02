@@ -11,12 +11,9 @@
   "description": "OCCAMS Computational Biology Day",
   "speakers": [
     {
-      "name": "Calvin Cheah",
-      "bio": "Calvin trained as an engineer at Queens' College, Cambridge, going on to work in various technology start-ups, most recently, Congenica Ltd, where he served as Senior Web Developer and UX Consultant, developing diagnostic tools currently deployed by Genomics England, New York Genome Centre and BGI.",
-      "twitter": "congenical",
-      "github": "c4cam",
-      "subtitle": "Laboratory Informatics Developer at MRC Cancer Unit",
-      "avatar": "https://pbs.twimg.com/profile_images/943594626413486082/3jYOhXDQ_400x400.jpg"
+      "name": "Rebecca Fitzgerald",
+      "bio": "Rebecca Fitzgerald is Professor of Cancer Prevention at the University of Cambridge. Her laboratory is in the MRC Cancer Unit, Hutchison/MRC Research Centre. Rebecca continues to practice medicine and is an Honorary Consultant in Gastroenterology, Addenbrooke’s Hospital Cambridge. She graduated from Cambridge University in 1992, performed a research degree at Stanford University, California (1995-1997) and then undertook specialist clinical training and postdoctoral research at Barts and The London Hospitals (1997-2001) and moved back to Cambridge in 2001. The focus of her research is to improve methods for early detection of oesophageal cancer through better understanding of the molecular pathogenesis. Rebecca was awarded the prestigious Westminster medal and prize for her first proof of concept work on the CytospongeTM and associated assays for diagnosing Barrett’s oesophagus in 2004 and since then this work has received an NHS Innovation prize in 2011 and the BMJ Gastro team of the year award in 2016. She received a Lister Prize Fellowship in 2008 and in 2013 Rebecca was awarded an NIHR Research Professorship to facilitate translational research for patient benefit. She was elected a Fellow of the Academy of Medical Sciences in 2013. Rebecca enjoys teaching and communicating science to the public.  She directs studies for medical students at Trinity College Cambridge and is a Fellow of the Institute for Learning and Teaching. Rebecca is committed to bringing research advances into clinical practice and inspiring other researchers to do likewise."
+      "avatar": "https://i.ytimg.com/vi/j4IJ-zRv5-0/maxresdefault.jpg"
     },
     {
       "name": "Ginny Devonshire",
@@ -35,6 +32,14 @@
     {
       "name": "Sarah Killcoyne",
       "subtitle": "Post-Doctoral Researcher at Cancer Research UK"
+    },
+    {
+      "name": "Calvin Cheah",
+      "bio": "Calvin trained as an engineer at Queens' College, Cambridge, going on to work in various technology start-ups, most recently, Congenica Ltd, where he served as Senior Web Developer and UX Consultant, developing diagnostic tools currently deployed by Genomics England, New York Genome Centre and BGI.",
+      "twitter": "congenical",
+      "github": "c4cam",
+      "subtitle": "Laboratory Informatics Developer at MRC Cancer Unit",
+      "avatar": "https://pbs.twimg.com/profile_images/943594626413486082/3jYOhXDQ_400x400.jpg"
     }
   ],
   "events": [
