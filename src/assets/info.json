@@ -43,15 +43,15 @@
   ],
   "events": [
     {
-      "title": "10:00 am",
+      "title": "10:30 am",
       "data": [
-        { "name" : "Breakfast", "time": "9:30 am - 10:00 am", "place": "Main hallway", "color":"#33E4F0"},
-        { "name" : "Overview", "time": "10:00 am - 10:05 am", "place": "Auditorium", "color":"#33E4F0"}
+        { "name" : "Registration & breakfast", "time": "9:30 am - 10:00 am", "place": "Main hallway", "color":"#33E4F0"}
       ]
     },
     {
-      "title": "10:05 am",
+      "title": "10:00 am",
       "data": [
+        { "name" : "Overview", "time": "10:00 am - 10:05 am", "place": "Auditorium", "color":"#33E4F0"},
         { "name" : "Description of current Omics pipelines/processes", "time": "10:00 am - 10:15 am", "place": "Auditorium", "color":"#3392F0",
           "speaker":"Ginny and Ganesh",
           "description": "Pre- and post-processing.\r\nRNA and methylation."}
