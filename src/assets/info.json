@@ -52,31 +52,31 @@
     {
       "title": "10:05 am",
       "data": [
-        { "name" : "Description of current Omics pipelines/processes", "time": "10:00 am - 10:15 am", "place": "Room 2203", "color":"#3392F0",
+        { "name" : "Description of current Omics pipelines/processes", "time": "10:00 am - 10:15 am", "place": "Auditorium", "color":"#3392F0",
           "speaker":"Ginny and Ganesh",
-          "description": "Pre- and post-processing. RNA and methylation."}
+          "description": "Pre- and post-processing.\r\nRNA and methylation."}
       ]
     },
     {
       "title": "10:20 am",
       "data": [
-        { "name" : "Clinical data (LabKey)", "time": "10:20 am - 10:30 am", "place": "Room 2203", "color":"#C12071",
+        { "name" : "Clinical data (LabKey)", "time": "10:20 am - 10:30 am", "place": "Auditorium", "color":"#C12071",
           "speaker":"Sarah",
-          "description": "Description of data (CRFs). How to access the data."}
+          "description": "Description of data (CRFs).\r\nHow to access the data."}
       ]
     },
     {
       "title": "10:30 am",
       "data": [
         { "name" : "Governance, policy", "time": "11:00 am - 11:15 am", "place": "Auditorium", "color":"#C12071",
-          "speaker":"Jennifer",
-          "description": "Vivamus lobortis dapibus quam vitae sagittis. In in commodo nisi. In aliquam ante vel mi bibendum, maximus molestie ex pellentesque. Proin maximus efficitur efficitur. Aliquam a dolor ultricies, dapibus metus vitae, rutrum ex. Curabitur bibendum tempor ullamcorper"},
+          "speaker":"Jennifer"
+        },
         { "name" : "Data transfer", "time": "11:15 am - 11:30 am", "place": "Auditorium", "color":"#808080",
-          "speaker":"Ginny",
-          "description": "Vivamus lobortis dapibus quam vitae sagittis. In in commodo nisi. In aliquam ante vel mi bibendum, maximus molestie ex pellentesque. Proin maximus efficitur efficitur. Aliquam a dolor ultricies, dapibus metus vitae, rutrum ex. Curabitur bibendum tempor ullamcorper"},
+          "speaker":"Ginny"
+        },
         { "name" : "cBioPortal", "time": "11:30 am - 12:00 pm", "place": "Auditorium", "color":"#DEC311",
-          "speaker":"Calvin",
-          "description": "Vivamus lobortis dapibus quam vitae sagittis. In in commodo nisi. In aliquam ante vel mi bibendum, maximus molestie ex pellentesque. Proin maximus efficitur efficitur. Aliquam a dolor ultricies, dapibus metus vitae, rutrum ex. Curabitur bibendum tempor ullamcorper"}
+          "speaker":"Calvin"
+        }
       ]
     },
     {
@@ -88,9 +88,7 @@
     {
       "title": "11:00 am",
       "data": [
-        { "name" : "Consortium talks", "time": "11:00 am - 12:00 pm", "place": "Auditorium", "color":"#3392F0",
-          "speaker":"John Doe",
-          "description": "Vivamus lobortis dapibus quam vitae sagittis. In in commodo nisi. In aliquam ante vel mi bibendum, maximus molestie ex pellentesque. Proin maximus efficitur efficitur. Aliquam a dolor ultricies, dapibus metus vitae, rutrum ex. Curabitur bibendum tempor ullamcorper"}
+        { "name" : "Consortium talks", "time": "11:00 am - 12:00 pm", "place": "Auditorium", "color":"#3392F0"}
       ]
     },
     {
