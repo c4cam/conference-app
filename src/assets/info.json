@@ -21,7 +21,16 @@
     {
       "name": "Ginny Devonshire",
       "subtitle": "Bioinformatician at Cancer Research UK",
-      "avatar": "https://www.cruk.cam.ac.uk/wp-content/uploads/2018/11/Ginny-Devonshire_96x134_acf_cropped.jpg"
+      "avatar": "https://www.cruk.cam.ac.uk/wp-content/uploads/2018/11/Ginny-Devonshire.jpg"
+    },
+    {
+      "name": "Sriganesh Jammula",
+      "subtitle": "Bioinformatician at Cancer Research UK",
+      "avatar": "https://www.cruk.cam.ac.uk/wp-content/uploads/2018/11/Sriganesh-Jammula.jpg"
+    },
+    {
+      "name": "Sarah Killcoyne",
+      "subtitle": "Post-Doctoral Researcher at Cancer Research UK"
     }
   ],
   "events": [
