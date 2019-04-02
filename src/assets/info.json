@@ -102,6 +102,12 @@
       "data": [
         { "name" : "OElixir WP2", "time": "1:00 pm - 2:00 pm", "place": "Auditorium", "color":"#33E4F0", "speaker":"Rebecca Fitzgerald" }
       ]
+    },
+    {
+      "title": "2:00 pm",
+      "data": [
+        { "name" : "End" }
+      ]
     }
   ]
 }
