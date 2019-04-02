@@ -53,15 +53,15 @@
       "data": [
         { "name" : "Overview", "time": "10:00 am - 10:05 am", "place": "Auditorium", "color":"#33E4F0"},
         { "name" : "Description of current Omics pipelines/processes", "time": "10:00 am - 10:15 am", "place": "Auditorium", "color":"#3392F0",
-          "speaker":"Ginny and Ganesh",
-          "description": "Pre- and post-processing.\r\nRNA and methylation."}
+          "speaker":"Ginny Devonshire and Sriganesh Jammula",
+          "description": "Pre and post-processing.\r\nRNA and methylation."}
       ]
     },
     {
       "title": "10:20 am",
       "data": [
         { "name" : "Clinical data (LabKey)", "time": "10:20 am - 10:30 am", "place": "Auditorium", "color":"#C12071",
-          "speaker":"Sarah",
+          "speaker":"Sarah Killcoyne",
           "description": "Description of data (CRFs).\r\nHow to access the data."}
       ]
     },
@@ -69,13 +69,13 @@
       "title": "10:30 am",
       "data": [
         { "name" : "Governance, policy", "time": "11:00 am - 11:15 am", "place": "Auditorium", "color":"#C12071",
-          "speaker":"Jennifer"
+          "speaker":"Jennifer Furman"
         },
         { "name" : "Data transfer", "time": "11:15 am - 11:30 am", "place": "Auditorium", "color":"#808080",
-          "speaker":"Ginny"
+          "speaker":"Ginny Devonshire"
         },
         { "name" : "cBioPortal", "time": "11:30 am - 12:00 pm", "place": "Auditorium", "color":"#DEC311",
-          "speaker":"Calvin"
+          "speaker":"Calvin Cheah"
         }
       ]
     },
@@ -94,13 +94,13 @@
     {
       "title": "12:00 pm",
       "data": [
-        { "name" : "Lunch", "time": "12:00 pm - 1:00 pm", "place": "Hallway", "color":"#33E4F0"}
+        { "name" : "Lunch", "time": "12:00 pm - 1:00 pm", "place": "Hallway", "color":"#33E4F0" }
       ]
     },
     {
       "title": "1:00 pm",
       "data": [
-        { "name" : "OElixir WP2", "time": "1:00 pm - 2:00 pm", "place": "Auditorium", "color":"#33E4F0"}
+        { "name" : "OElixir WP2", "time": "1:00 pm - 2:00 pm", "place": "Auditorium", "color":"#33E4F0", "speaker":"Rebecca Fitzgerald" }
       ]
     }
   ]
