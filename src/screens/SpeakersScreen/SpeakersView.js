@@ -59,14 +59,6 @@ class SpeakersView extends Component {
                   <Text style={{fontWeight:'700'}}>{this.state.speaker.subtitle}</Text>
                   <Text style={{textAlign: 'justify'}}>{this.state.speaker.bio}</Text>
 
-                  <View style={{alignItems: 'flex-start', flexDirection: 'row'}}>
-                    <Icon.Button name="twitter" backgroundColor="transparent" color={config.PRIMARY_BG_COLOR}>
-                      <Text>@{this.state.speaker.twitter}</Text>
-                    </Icon.Button>
-                    <Icon.Button name="github" backgroundColor="transparent" color={config.PRIMARY_BG_COLOR}>
-                      <Text>@{this.state.speaker.github}</Text>
-                    </Icon.Button>
-                  </View>
                   <Button
                     title='CLOSE'
                     buttonStyle={{
