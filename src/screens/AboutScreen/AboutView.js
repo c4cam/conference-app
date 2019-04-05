@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';
 import {
-  ScrollView, View, Text, Image
+  ScrollView, View, Text, Image, Linking
 } from 'react-native';
 import Icon from 'react-native-vector-icons/Feather';
 import styles from './style.js';
@@ -51,13 +51,16 @@ class AboutView extends Component {
           <Text style={styles.description}>{this.props.conference.description}</Text>
           <View style={styles.author}>
             <Image
-              source={{uri: 'https://avatars3.githubusercontent.com/u/17863319?s=460&v=4'}}
+              source={{uri: 'https://www.bof.co.uk/application/files/cache/d1793653bf163a9e4fac035e5b67b349.jpg'}}
               style={styles.avatar}
             />
             <View>
-              <Text style={styles.name}>App Developer Info:</Text>
-              <Text>Lex Martinez</Text>
-              <Text style={styles.link}>me@lexmartinez.com</Text>
+              <Text style={styles.name}>Organiser:</Text>
+              <Text>Oesophageal cancer clinical and molecular stratification (OCCAMS) </Text>
+              <Text style={styles.link} onPress={() => Linking.openURL('https://www.mrc-cu.cam.ac.uk/research/rebecca-fitzgerald/clinical-studies/occams')}>https://www.mrc-cu.cam.ac.uk/research/rebecca-fitzgerald/clinical-studies/occams</Text>
+              <Text></Text>
+              <Text style={styles.name}>Privacy Policy:</Text>
+              <Text style={styles.link} onPress={() => Linking.openURL('https://c4cam.github.io/conference-app/')}>https://c4cam.github.io/conference-app/</Text>
             </View>
           </View>
         </View>
