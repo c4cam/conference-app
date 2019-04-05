@@ -7,7 +7,8 @@
     "slug": "cBioDay",
     "android": {
       "package": "uk.ac.cam.hutchison.occams.cbioday2019",
-      "permissions": []
+      "permissions": [],
+      "versionCode": 2
     }
   },
   "name": "cBioDay2019",
