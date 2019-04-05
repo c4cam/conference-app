@@ -1,7 +1,15 @@
 {
   "expo": {
-    "sdkVersion": "26.0.0"
+    "sdkVersion": "26.0.0",
+    "name": "OCCAMS Computational Biology Day 2019",
+    "icon": "./src/assets/ic_launcher.png",
+    "version": "0.2",
+    "slug": "cBioDay",
+    "android": {
+      "package": "uk.ac.cam.hutchison.occams.cbioday2019",
+      "permissions": []
+    }
   },
-  "name": "cBioDay",
-  "displayName": "cBioDayApp"
+  "name": "cBioDay2019",
+  "displayName": "OCCAMS Computational Biology Day 2019"
 }
