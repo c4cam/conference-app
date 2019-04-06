@@ -2,9 +2,9 @@
   "name":"OCCAMS cBioDay 2019",
   "location": {
     "city":"Cambridge, UK",
-    "address": "Cancer Research UK Cambridge Institute",
-    "latitude": 52.177130,
-    "longitude": 0.135553
+    "address": "Seminar Room 1, University of Cambridge Clinical School, Cambridge Biomedical Campus, CB2 0SP",
+    "latitude": 52.176214,
+    "longitude": 0.141427
   },
   "banner": "https://github.com/c4cam/conference-app/raw/81cabebda8d98002026c80cb684ae424c72b4263/src/assets/occams_cbioday.jpeg",
   "date": "April 8, 2019",
@@ -20,7 +20,7 @@
     },
     {
       "name": "Jennifer Furman",
-      "subtitle": "Research Governance and Integrity Coordinator at Cancer Research UK"
+      "subtitle": "Research Governance and Integrity Coordinator at MRC Cancer Unit"
     },
     {
       "name": "Sriganesh Jammula",
@@ -29,7 +29,7 @@
     },
     {
       "name": "Sarah Killcoyne",
-      "subtitle": "Post-Doctoral Researcher at Cancer Research UK"
+      "subtitle": "Post-Doctoral Researcher at MRC Cancer Unit"
     },
     {
       "name": "Calvin Cheah",
@@ -44,51 +44,59 @@
     {
       "title": "9:30 am",
       "data": [
-        { "name" : "Registration", "time": "9:30 am - 10:00 am", "place": "Main hallway", "color":"#33E4F0"}
+        { "name" : "Registration", "time": "9:30 am - 10:00 am", "place": "Seminar Room 1", "color":"#33E4F0"}
       ]
     },
     {
-      "title": "10:00 am",
+      "title": "10:00 am - Session 1",
       "data": [
-        { "name" : "Overview", "time": "10:00 am - 10:05 am", "place": "Auditorium", "color":"#33E4F0"},
-        { "name" : "Description of current Omics pipelines/processes", "time": "10:00 am - 10:15 am", "place": "Auditorium", "color":"#3392F0",
+        { "name" : "Overview", "time": "10:00 am - 10:05 am", "place": "Seminar Room 1", "color":"#33E4F0"},
+        { "name" : "Description of current Omics pipelines/processes", "time": "10:00 am - 10:15 am", "place": "Seminar Room 1", "color":"#3392F0",
           "speaker":"Ginny Devonshire and Sriganesh Jammula",
           "description": "Pre and post-processing.\r\nRNA and methylation."},
-        { "name" : "Clinical data (LabKey)", "time": "10:20 am - 10:30 am", "place": "Auditorium", "color":"#C12071",
+        { "name" : "Clinical data (LabKey)", "time": "10:20 am - 10:30 am", "place": "Seminar Room 1", "color":"#C12071",
           "speaker":"Sarah Killcoyne",
           "description": "Description of data (CRFs).\r\nHow to access the data."},
-        { "name" : "Governance, policy", "time": "10:30 am - 10:50 am", "place": "Auditorium", "color":"#C12071",
+        { "name" : "Governance, policy", "time": "10:30 am - 10:50 am", "place": "Seminar Room 1", "color":"#C12071",
           "speaker":"Jennifer Furman"
         },
-        { "name" : "Data transfer", "time": "10:30 am - 10:50 am", "place": "Auditorium", "color":"#808080",
+        { "name" : "Data transfer", "time": "10:30 am - 10:50 am", "place": "Seminar Room 1", "color":"#808080",
           "speaker":"Ginny Devonshire"
         },
-        { "name" : "cBioPortal", "time": "10:30 am - 10:50 am", "place": "Auditorium", "color":"#DEC311",
+        { "name" : "cBioPortal", "time": "10:30 am - 10:50 am", "place": "Seminar Room 1", "color":"#DEC311",
           "speaker":"Calvin Cheah"
         },
-        { "name" : "Break", "time": "10:50 am - 11:00 am", "place": "Auditorium", "color":"#33E4F0"}
+        { "name" : "Break", "time": "10:50 am - 11:00 am", "place": "Seminar Room 1", "color":"#33E4F0"}
       ]
     },
     {
-      "title": "11:00 am",
+      "title": "11:00 am - Session 2: Project talks from the consortium",
       "data": [
-        { "name" : "Consortium talks", "time": "11:00 am - 12:00 pm", "place": "Auditorium", "color":"#3392F0"}
+        { "name" : "Developing a transcriptomic cell atlas of oesophageal adenocarcinoma", "time": "11:00 am - 11:30 pm", "place": "Seminar Room 1", "color":"#3392F0",
+        "speaker": "Dr Rob Walker (University of Southampton)"},
+        { "name" : "Understanding the hidden metagenome in WGS samples", "time": "11:30 am - 12:00 pm", "place": "Seminar Room 1", "color":"#3392F0",
+        "speaker": "Dr Andrew Beggs (University of Birmingham)"},
+        { "name" : "A machine learning approach to identify the somatic events driving cancer in individual patients", "time": "11:30 am - 12:00 pm", "place": "Seminar Room 1", "color":"#3392F0",
+        "speaker": "Professor Francesca Cicarelli (Francis Crick Institute)"}
       ]
     },
     {
       "title": "12:00 pm",
       "data": [
-        { "name" : "Lunch", "time": "12:00 pm - 1:00 pm", "place": "Hallway", "color":"#33E4F0" }
+        { "name" : "Lunch", "time": "12:00 pm - 1:00 pm", "place": "Seminar Room 1", "color":"#33E4F0" }
       ]
     },
     {
-      "title": "1:00 pm",
+      "title": "1:00 pm - Session 3: Project talks from the consortium",
       "data": [
-        { "name" : "OElixir WP2", "time": "1:00 pm - 2:00 pm", "place": "Auditorium", "color":"#33E4F0", "speaker":"Rebecca Fitzgerald" }
+        { "name" : "Insights into OAC progression from open chromatin profiling", "time": "1:00 pm - 1:30 pm", "place": "Seminar Room 1", "color":"#33E4F0", "speaker":"Professor Andrew Sharrocks (University of Manchester)" },
+        { "name" : "Proteogenomics for biomarker discovery in oesophageal adenocarcinoma", "time": "1:30 pm - 2:00 pm", "place": "Seminar Room 1", "color":"#33E4F0", "speaker":"Dr Robert O’Neill (University of Cambridge)" },
+        { "name" : "Structural variants and mobile element insertions", "time": "2:00 pm - 2:30 pm", "place": "Seminar Room 1", "color":"#33E4F0", "speaker":"Dr Paul Edwards (University of Cambridge)" },
+        { "name" : "Oelixir Work Project 2", "time": "2:30 pm - 3:00 pm", "place": "Seminar Room 1", "color":"#33E4F0" }
       ]
     },
     {
-      "title": "2:00 pm",
+      "title": "3:00 pm",
       "data": [
         { "name" : "End" }
       ]
