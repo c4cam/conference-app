@@ -76,14 +76,14 @@
         "speaker": "Dr Rob Walker (University of Southampton)"},
         { "name" : "Understanding the hidden metagenome in WGS samples", "time": "11:30 am - 12:00 pm", "place": "Seminar Room 1", "color":"#3392F0",
         "speaker": "Dr Andrew Beggs (University of Birmingham)"},
-        { "name" : "A machine learning approach to identify the somatic events driving cancer in individual patients", "time": "11:30 am - 12:00 pm", "place": "Seminar Room 1", "color":"#3392F0",
+        { "name" : "A machine learning approach to identify the somatic events driving cancer in individual patients", "time": "12:00 pm - 12:30 pm", "place": "Seminar Room 1", "color":"#3392F0",
         "speaker": "Professor Francesca Cicarelli (Francis Crick Institute)"}
       ]
     },
     {
-      "title": "12:00 pm",
+      "title": "12:30 pm",
       "data": [
-        { "name" : "Lunch", "time": "12:00 pm - 1:00 pm", "place": "Seminar Room 1", "color":"#33E4F0" }
+        { "name" : "Lunch", "time": "12:30 pm - 1:00 pm", "place": "Seminar Room 1", "color":"#33E4F0" }
       ]
     },
     {
