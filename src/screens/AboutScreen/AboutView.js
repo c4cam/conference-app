@@ -61,6 +61,13 @@ class AboutView extends Component {
               <Text></Text>
               <Text style={styles.name}>Privacy Policy:</Text>
               <Text style={styles.link} onPress={() => Linking.openURL('https://c4cam.github.io/conference-app/')}>https://c4cam.github.io/conference-app/</Text>
+              <Text></Text>
+              <Text style={styles.name}>cBioPortal:</Text>
+              <Text style={styles.link} onPress={() => Linking.openURL('http://occams.hutchison-mrc.cam.ac.uk')}>http://occams.hutchison-mrc.cam.ac.uk</Text>
+              <Text></Text>
+              <Text style={styles.name}>cBioPortal Beta Sign Up:</Text>
+              <Text style={styles.link} onPress={() => Linking.openURL('https://cam.us19.list-manage.com/subscribe?u=b7cfc6c2d138548b377e9e846&id=2659c5f90b')}>Sign up</Text>
+
             </View>
           </View>
         </View>
