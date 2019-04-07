@@ -8,7 +8,7 @@
     "android": {
       "package": "uk.ac.cam.hutchison.occams.cbioday2019",
       "permissions": [],
-      "versionCode": 2
+      "versionCode": 3
     }
   },
   "name": "cBioDay2019",
